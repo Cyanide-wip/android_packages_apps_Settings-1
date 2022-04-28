@@ -168,4 +168,9 @@
     <!-- FastCharge feature -->
     <string name="fast_charging_title">Fast charging</string>
     <string name="fast_charging_summary">Disable to reduce the heat produced by the device while charging or to extend the lifespan of the battery</string>
+
+    <!-- Show LTE/4G switch -->
+    <string name="show_fourg_icon_title">Show 4G instead of LTE</string>
+    <string name="show_fourg_icon_summary">Replace LTE indicator with 4G</string>
+
 </resources>
